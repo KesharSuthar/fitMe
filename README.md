@@ -117,5 +117,3 @@ This project is open-source under the **MIT License**.
 Developed by **Keshar Suthar** for *Indian Health, Wellness & Psychology — Assignment*.
 
 ---
-
-**Live demo:** _(to be deployed on Vercel or Render)_
