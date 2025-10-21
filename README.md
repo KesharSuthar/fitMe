@@ -114,6 +114,6 @@ This project is open-source under the **MIT License**.
 ---
 
 ## 💛 Credits
-Developed by **Keshar Suthar** for *Indian Health, Wellness & Psychology — Assignment*.
+Developed by **Keshar Suthar** for *Health, Wellness & Psychology — Self Assessment*.
 
 ---
